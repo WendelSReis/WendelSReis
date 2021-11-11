@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/WendelSReis">
   <img height="152em" src="https://github-readme-stats.vercel.app/api?username=WendelSReis&show_icons=false&theme=dark&include_all_commits=false&count_private=false"/>
-  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendelSReis&layout=compact&langs_count=10&theme=dark"/>
+  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendelSReis&layout=compact&langs_count=100&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="W-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
