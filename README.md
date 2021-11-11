@@ -1,7 +1,7 @@
 ## Olá, eu sou a Wendel Reis, criador de conteúdo de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/WendelSReis">
-  <img height="152em" src="https://github-readme-stats.vercel.app/api?username=WendelSReis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="152em" src="https://github-readme-stats.vercel.app/api?username=WendelSReis&show_icons=false&theme=dark&include_all_commits=false&count_private=false"/>
   <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendelSReis&layout=compact&langs_count=10&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
