@@ -1,4 +1,4 @@
-## Olá, eu sou a Wendel Reis, criador de conteúdo de programação e tecnologia!
+## Olá, eu sou Wendel Reis, desenvolvedor Full-Stack com expertise em tecnologias modernas e colaboração em equipe!
 <div align="center">
   <a href="https://github.com/WendelSReis">
   <img height="152em" src="https://github-readme-stats.vercel.app/api?username=WendelSReis&show_icons=false&theme=dark&include_all_commits=false&count_private=false"/>
