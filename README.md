@@ -1,8 +1,8 @@
 ## Olá, eu sou Wendel Reis, desenvolvedor Full Stack com expertise em tecnologias modernas e colaboração em equipe!
 <div align="center">
   <a href="https://github.com/WendelSReis">
-  <img height="152em" src="https://github-readme-stats.vercel.app/api?username=WendelSReis&api?username=anuraghazra&count_private=true&show_icons=true&theme=transparent"/>
-  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendelSReis&layout=donut&theme=transparent"/>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=WendelSReis&api?username=anuraghazra&count_private=true&show_icons=true&theme=transparent"/>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendelSReis&layout=donut&theme=transparent"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="W-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
