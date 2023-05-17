@@ -16,7 +16,7 @@
 <img align='right' src="https://github.com/BhavyaCodes/BhavyaCodes/blob/master/.github/cat.gif" height="" width="300" alt="coding cat">
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; I study systems engineering at the UAM.
+- 🎓 &nbsp; I study analysis and development of systems at the UAM.
 - 🌱 &nbsp; Learning about Cloud Tech AWS.
 - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
 
