@@ -1,23 +1,58 @@
-## Olá, eu sou Wendel Reis, desenvolvedor Full Stack com expertise em tecnologias modernas e colaboração em equipe!
-<div align="center">
-  <a href="https://github.com/WendelSReis">
-  <img height="200px" src="https://github-readme-stats.app/api?username=WendelSReis&api?username=anuraghazra&count_private=true&show_icons=true&theme=transparent"/>
-  <img height="200px" src="https://github-readme-stats.app/api/top-langs/?username=WendelSReis&layout=donut&theme=transparent"/>
+<div>
+
+# 👋 Hi there, I am <a href="#" target="_blank">Wendel Reis, Full Stack Developer with expertise in modern technologies and teamwork collaboration!</a> <img align='right' src="/.github/cat.gif" height="" width="300" alt="coding cat">
+
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="W-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="W-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="W-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="W-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="W-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="W-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="W-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-  <br />
-<div> 
-  <a ></a>
+
+<div>
   <a href="https://www.instagram.com/wendel.reiss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a ></a>
   <a href = "mailto:wendel.m.w18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wendel-reis-074809203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
+
+<h2 style="display: flex; align-items: center; margin-bottom: 1rem;"><img style="width: 40px; margin: 0;" src="./assets/Octocat/Octocat.png" alt="🌟" width='40' /> About Me</h2>
+
+
+<img align='right' src="https://github.com/BhavyaCodes/BhavyaCodes/blob/master/.github/cat.gif" height="" width="300" alt="coding cat">
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; I study systems engineering at the UAM.
+- 🌱 &nbsp; Learning about Cloud Tech AWS.
+- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+
+<hr>
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+
+ ## Front-End Technologies:
+<code><img height="40" width='40' src="./assets/javascript.svg" alt="Javascript"/></code>
+<code><img height="40" width='40' src="./assets/html.svg" alt="HTML5"/></code>
+<code><img height="40" width='40' src="./assets/css3.svg" alt="CSS"/></code>
+<code><img height="40" width='40' src="./assets/react.svg" alt="React"/></code>
+
+
+
+ ## Back-End Technologies:
+
+<code><img height="40" width='40' src="./assets/java.svg" alt="Java"/></code>
+<code><img height="40" width='40' src="./assets/sprint.svg" alt="SpringBoot"/></code>
+<code><img height="40" width='40' src="./assets/nodejs.svg" alt="NodeJS"/></code>
+<code><img height="40" width='40' src="./assets/python.svg" alt="Python"/></code>
+<code><img height="40" width='40' src="./assets/mysql.png" alt="MySQL"/></code>
+<code><img height="40" width='40' src="./assets/mongodb.svg" alt="MongoDB"/></code>
+<code><img height="40" width='40' src="./assets/firebase.svg" alt="Firebase"/></code>
+
+<br/>
+
+<br/>
+
+
+<img alt="Wendel Reis" src="https://github-readme-stats.vercel.app/api?username=WendelSReis&show_icons=true&count_private=true&theme=transparent&hide_border=true" /></a>
+
+<img alt="Wendel Reis" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendelSReis&show_count=8&count_private=true&layout=compact&theme=transparent&hide_border=true" /></a>
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+⭐️ From <a href="#" target="_blank">Wendel Reis</a>
