@@ -24,14 +24,11 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-
  ## Front-End Technologies:
 <code><img height="40" width='40' src="./assets/javascript.svg" alt="Javascript"/></code>
 <code><img height="40" width='40' src="./assets/html.svg" alt="HTML5"/></code>
 <code><img height="40" width='40' src="./assets/css3.svg" alt="CSS"/></code>
 <code><img height="40" width='40' src="./assets/react.svg" alt="React"/></code>
-
-
 
  ## Back-End Technologies:
 
