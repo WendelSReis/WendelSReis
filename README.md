@@ -1,5 +1,7 @@
 <div>
-👋 Hi there, I am <a href="#" target="_blank">Wendel Reis</a>, Full Stack Developer with expertise in modern technologies and teamwork collaboration! <img align='right' src="/.github/cat.gif" height="" width="300" alt="coding cat">
+
+## 👋 Hi there, I am <a href="#" target="_blank">Wendel Reis</a>, Full Stack Developer with expertise in modern technologies and teamwork collaboration! <img align='right' src="/.github/cat.gif" height="" width="300" alt="coding cat">
+
 </div>
 
 <div>
